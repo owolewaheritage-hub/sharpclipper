@@ -1,0 +1,6 @@
+{
+  "name": "SharpClipper",
+  "description": "Turn long videos into viral shorts in 1 click. Free browser-based video clipper with TikTok-style auto captions, 9:16 reframing, and instant MP4 export.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
